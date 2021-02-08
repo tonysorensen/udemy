@@ -1,0 +1,29 @@
+/* color pallete
+dbe2ef
+3f72af
+112d4e
+f9f7f7 */
+html {
+  height: 100vh;
+}
+body {
+  background-color: #3f72af;
+}
+hr {
+  background-color: #f9f7f7;
+  border-style: none;
+  height: 2.2px;
+  width: 90%;
+}
+img {
+  border: 2px solid #f9f7f7;
+  border-radius: 50%;
+  width: 160px;
+}
+img:hover{
+    width:165px;
+}
+h1,
+h3 {
+  color: #dbe2ef;
+}
